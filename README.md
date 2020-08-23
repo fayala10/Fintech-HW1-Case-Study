@@ -1,2 +1,148 @@
-# Fintech-HW1-Case-Study
-Betterment Case Study
+
+# UW FIntech - Case study
+
+## Overview and Origin
+
+* Betterment
+
+* When was the company incorporated?
+* Who are the founders of the company?
+* How did the idea for the company (or project) come about?
+* How is the company funded? How much funding have they received?
+
+Betterment started the same way many great companies are born, during times of crisis and resiliency. During the 2008 Financial crisis,
+Jon Stein and Eli Broverman began to build an online platform idea, for an automated investing platform. During the first 2 years after being incorporated,
+the founders developed a platform using MySQL as database in order to be launch, and in 2009 became a FINRA member. Early on, the company was seen
+as an innovative company and disruptor in the financial industry. Betterment officially launched during TechCrunch Disrupt of New York in 2010,
+winning the award of “Biggest New York Disruptor”. After the successful launch, the company attracted its first customers and early investors. 
+During 2010 and 2012, Betterment received various funding rounds from Venture Capital groups, and by 2012 the company established a line of products ranging
+from IRAs, automatic deposits, and goal-based investing advice. Betterment has become a smart money manage, offering everyday banking services, 
+along their core investing and retirement solutions. The company received Series A round funding from Bessemer Venture Partners in December 2010 and in 
+October 2012 Menlo Ventures provided Series B Funding along other VC. In 2014, betterment received $32 million round of series C funding from new Investors
+Northwestern Mutual Capital, Globespan Capital Partners and Citigroup Inc’s Citi Ventures capital unit. As of their last funding in Aug 2017, Betterment 
+has raised a total of $275 Mill over 7 rounds.  
+
+## Business Activities:
+
+* What specific financial problem is the company or project trying to solve?
+
+Betterment’s mission is to simplify and lower the cost of financial services, by offering a money manager platform and using cutting edge technology tools to 
+create a one stop shop for clients financial goals. For many years, the concept of financial advise seemed to be a cumbersome and expensive process that 
+many consumers didn't know how to approach. The principal users of technology in finance are Millenials. This demographic is embracing change and disruption, and 
+are the responsibles for the creation and innovation in this sector. Millenials naturally have a distrust in the traditional banking and investment institutions. 
+They have witnessed pivotal financial moments, including the 2001 dot.com bubble, 2008 financial crisis and several ponzi schemes. It is clear consumers are demanding 
+a better digital experience, with transparency and customer centric models. Additionally, the fees for investment advice with a financial adviosr vary greatly across 
+firms and in some cases, financial advisors can charge 2-3% annual management fees. On top of this annual fee, advisors can buy active mutual funds which charge 
+additional high fees. Many times these financial firms downplay the impact of fees in your investments by burying them in the fine print. These fees can potentially 
+turn into hundreds of thousands of dollars over a lifetime. As a result of these practices, consumers are demanding greater transparency, not only with fees structure 
+but with knowing that their advisor has their best interest in mind. Additionally, Betterment has made the process of saving and investing easier by creating a user 
+friendly platform, enabling customers to invest extra cash sitting in their deposit accounts, and allocating these funds into a robo avdisor investment platform.
+
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+Betterment has become on of the leaders in the robo advising Fintech Industry. The company has constantly update and rebreanded their online website and digital platforms.
+The company uses alogirthms to create asset allocation based on each clients financial goal. This is accomplished by gathering very detail client information to determine
+the clients risk tolerance and investment horizon. Some of the main benefits of using a robo-advisors, is that it takes emotions out of the equation. As humans, we tend to 
+over react with negative and positive news. One of the main reasons beginer investors in the stock market fail, is trading in fear or acting based on emotions. In the other
+hand, alogirthms have a set equation based on the clients financial objective, and if the criteria is not met, trere is no trade. Betterment also has a feature called 
+two-way cash sweep. This function will shift money between betterment's high yield cash account and the cheking account. This is all determine automatically be the
+platform if the client has excess funds in the checking account that could earn higher interest. Conversely, if the balance in your checking account is too low, it will
+sweep back to the account. Betterment's digital platform also allows client to simulate different scenarios or life changing events, to see how it can affect the 
+clients overall financial goals. 
+
+## Landscape:
+
+* What domain of the financial industry is the company in?
+
+Betterment is in Personal Finance/Deposit/Online Banking and Robo-Advising. 
+
+* What have been the major trends and innovations of this domain over the last 5-10 years?
+
+Online platform only, paired with low fees and great customer service. Eliminating complexity and reducing time of establishing banking and investment accounts. 
+The principal users of technology in finance are Millenials. This demogpraphic is embracing change and disruption, and are the responsibles for the creation
+and innovation in this sector. Millenials naturally have a distrust in the traditional banking and investment institutions. They have witnessed pivotal financial 
+moments, including the 2001 dot.com bubble, 2008 financial crisis and several ponzi schemes. It is clear consumers are demanding a better digital experience, with 
+transparency and customer centric models. Another important trend is the growth of robo-advisors. Millenias expect convenience and readily accessible products,
+paired with a customized experience at a low cost. This new technology, allows digital platforms provide automated, alogirthm-driven financial planning with little 
+or no human supervision. These robo-advisor platforms, collects data from client's financial picture, their unique situations and future goals. The majority of 
+robo-advisors, utilize Modern Portfolio Theory when establishing client's asset allocation. Additionally, they use passive index strategies that reduce buying
+and selling. This strategy has lower costs, is less complex and it often produces better returns over medium to long time investmetnt horizon. Additional 
+trends now relatively common in this domain, are attractive interest rates compare to traditional banks, as their expenses are significantly lower. FDIC-insured 
+checking accounts with no acct fees, no overdraft or monthly maintenance fees or miminum balance. 
+
+* What are the other major companies in this domain?
+
+The main competitors are Acorns and Wealthfront.
+
+## Results
+
+* What has been the business impact of this company so far?
+
+It is clear that Betterment has been an important part of the disruption in the financial services industry. This succesful adoption by many comsumers, 
+might become the standard future of the industry. The direct impact of betterment can be seen in its main of users, millenials. This generation is slowly becoming the motor
+of the economy and are on the precipice of a massive weath transfer from baby boomers in the next 30 years. It is expected a $30-thrillion tansfer of wealth from
+baby boomers to Generation X and millenials. These generations inehreting this massive wealth, have embrace technology and are kin to changes like never before. 
+Many analysts predict that Brick and Mortar banks are destined to be replace, lowering its foot traffic as financial services adapt to new technolgies. 
+Betterment has been able to establish a user friendly digital platform, where consumers are able to save, invest, and plan for the future. Betterment offers the client 
+an opportunity to consolidate their banking and investments in a single platform. Evenhtough is diffilcut to calculate theexact impact betterment has had on this massive 
+market and its competitors, the success and growing rate of betterment is clear and can be refelcted in its numbers. The New York-based digital aviser has more than 500,000 
+accounts with over 22 billion AUM. Additonally, a third of its customers are over the age of 50 according to Dan Evan, Betterment's managing director of behaviroal finance 
+and investing. This indicates a broad market adoption to betterment's services, reflecting efficieny and friendliness as consumer over the age of 50, feel comfortable and secure. 
+In addition, the commission and fees have significantly reduce as betterment and many robo advisors company continue to disrupt the industry. For exampe, Beterment's Digital-only
+costumers pay 0.25% annual fee, compare to the 1-3% traditional financial advisors charge. This amount is reduce to 0.15% on assets over $2 mill. furthermmore, robo advisors
+like betterment, mainly use ETF ( Exchange-traded fund). This securities tracks and index or a basket of assets. These type of investment products give clients liquidty,
+diversification and low management fees. ETF fees can range from 0.07% -0.15% aprox. This is signifcant lower compare to active mutual funds that are commonly used by
+financial advisors. Mutual Funds expense ratios can vary from 1% to 2.5% annually. 
+
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+
+Based on a recent report by BackendBenchmarking, Betterment placed 7th out of 21 financial insitituions using robo advisor. It is a comprehensive ranking that includes
+features and services among all participants. There are more than 45 differrent metrics use to create a final score. Some of the metrics use are features, financial planning,
+customer experience, access to live advisors, transparency, account minimunsm costs and performance. Betterment ranked highly in Transparency ( 9 out 10), costs ( 12.50 out of 15)
+and features (8.17 out of 10). However, the lower score for the company were on access to advisors ( 5.50 out 10) and performance (6.23 out of 25). Additionally, as mentioned
+before, betterment has grown to have iver 22 billion in AUM and have more than 500,000 customers with a valuation of $800 million, according to PitchBook. 
+
+## Recommendations
+
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
+Extend its services to Internationl Clients. Allowing them to establish a banking and investment relationship, and develop a cross-border money transfer service. 
+
+* Why do you think that offering this product or service would benefit the company?
+
+Betterment has been able to develop a user friendly digital platform where clients can consolidate most of their banking and investment needs. Most international clients that 
+want to establish a bank relationship in the US, are not able to do it remotely. The process is lengthy, not client friendly, and in most cases clients must be 
+present in a physical location, in order to establish the account. Betterment could extend its service to markets outside the US, and increment its market share. In many cases, the 
+process for NRA clients to open a banking or investment relationship, can take weeks and can become a painful process with countless requirements. In addition to streamline the
+account opening process, the company can develop services for this client segment, such as international transfers. The company could capitalize this market segment, as 
+international clients will be highly motivated to establish a relationship with a bank that could offer banking, investments and international transfers on a single platform.
+
+* What technologies would this additional product or service utilize?
+
+Some of the tecnologies that can be adopted and implemented by having international clients is mobile cross-border money transfers. There are already companies taking advantage of 
+this service. Some of the companies are OFX, TransferWise, and Paypal among others. in addition to offer banking and investments services to potential international clients, 
+Betterment could set up a mobile to mobile transfer system, enabling users to directly send money from their phone to friends and family. Given the recent events of 
+the pandemic covid 19, consumers demands continue changing and the need for convenient and readily accesible solutions are expected. Current wires transfer and 
+internatioanl money transfer can be expensive. Additionally, banks that operate in one country, have miminum amounts or no exposure to foreign currencies. Hence, when 
+clients need to transfer funds to other countries, the bank goes to a FX market on behalf of client. Not only this cost is passed to the client, but banks will add a
+signfifican margin to this exchange rate. One model that can be replicate it in Betterments platform, is transferWise international transfer model. This model consists of 
+cross matching customers who are willing exchange the same currencies but in opposite directions. Through this model, the fees are minimal as there is no need
+to go to the FX market and buy different currencies.
+
+```
+
+Addendum:
+
+Company Webiste: https://www.betterment.com/
+Crunch Base: https://www.crunchbase.com/organization/betterment
+PWC Library: https://www.pwc.com/us/en/industries/financial-services/library/managing-millennial-money.html
+Forbes: https://www.forbes.com/companies/betterment/?list=fintech/#49ae483f5699
+Markets Business Insider Article: https://markets.businessinsider.com/news/stocks/betterment-review-2019-3-1028052111#
+Wikipedia: https://en.wikipedia.org/wiki/Betterment_(company)
+BackendBenchmarking: https://www.backendbenchmarking.com/blog/2019/12/best-robo-advisor-technology/
+backendbenchmarking: https://www.backendbenchmarking.com/blog/2020/08/the-robo-ranking-best-overall-robo/ 
+The Street: https://www.thestreet.com/technology/what-is-betterment-and-how-does-it-work-14961707
+Investopedia: https://www.investopedia.com/betterment-review-4587887#
+
+
+
